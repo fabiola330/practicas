@@ -1,0 +1,13 @@
+table{
+    border-color: maroon;
+    border-radius: 10px;
+    background: rebeccapurple ;
+    color:white;
+    text-align: center;
+    align-items: center;
+}
+td{
+    background: white;
+    color:blue;
+
+}

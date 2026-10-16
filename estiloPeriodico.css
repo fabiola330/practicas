@@ -1,0 +1,15 @@
+
+table{
+    text-align: center;
+    align-items: center;
+}
+td{
+    text-align: center;
+    border-radius: 4px;
+}
+
+
+.vacio{
+    background: transparent;
+    border: none;
+}

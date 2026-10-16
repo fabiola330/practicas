@@ -1,0 +1,19 @@
+    table{
+        background-color: rgb(150, 192, 234);
+        border-radius: 3px;
+        color: rgb(0, 0, 0);
+        text-align:center;
+        align-items:center;
+       }
+      td{
+        background-color: rgb(23, 16, 16);
+        color: rgb(195, 230, 248);
+      }
+      a{
+        text-decoration: #e13d3d none;
+        text-align: center;
+        box-shadow: #d6e13d;
+      }
+      a:hover{
+        text-decoration: blueviolet;
+      }

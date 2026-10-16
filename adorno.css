@@ -1,0 +1,11 @@
+*{ 
+   
+    color: rgb(241, 233, 241);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 12px;
+}
+
+a{
+    color:rgb(224, 224, 243);
+    text-decoration: none;
+}
