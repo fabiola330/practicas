@@ -1,0 +1,15 @@
+th{
+    background-color: blue;
+    color: aliceblue;
+}
+.aspecto{
+    background-color: rgb(141, 203, 248);
+    color:blue;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+table{
+    border-color: black;
+}
+.color{
+    background-color: rgb(141, 203, 248) ;
+}
